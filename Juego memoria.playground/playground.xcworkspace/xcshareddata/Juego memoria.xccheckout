@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EF918425-ABD5-4667-B355-AEE2A1641D67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Juego memoria</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3818CC1F8A8DF7A17D3969E6B01CF8B20B701104</key>
+		<string>https://github.com/zarer/JuegoMemoria.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Juego memoria.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3818CC1F8A8DF7A17D3969E6B01CF8B20B701104</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zarer/JuegoMemoria.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3818CC1F8A8DF7A17D3969E6B01CF8B20B701104</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3818CC1F8A8DF7A17D3969E6B01CF8B20B701104</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Memoria%20Juego%20Coursera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
